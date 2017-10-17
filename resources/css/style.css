@@ -1,0 +1,52 @@
+<* *>
+* {
+  font-family: Helvetic, sans-serif;
+  text-align: center;
+}
+<* *>
+h1 {
+  font-family: Helvetica,sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: White;
+}
+<* *>
+h2 {
+  font-family: Helvetica,sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+<* *>
+h3 {
+  font-family: Helvetica,sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+}
+<* *>
+a {
+  font-family: helvetica, sans-serif;
+  font-size: 18px;
+  color: White;
+}
+<* *>
+p {
+  font-family: helvetica, sans-serif;
+  font-size: 14px;
+}
+<* *>
+div {
+  background-image: url(../images/the-flatiron-building.png);
+}
+<* *>
+#DINY {
+  color: White;
+  background-image: url(../images/the-flatiron-building.png);
+}
+<* *>
+#footer {
+  font-family: Helvetica, sans-serif;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
