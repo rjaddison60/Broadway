@@ -1,48 +1,48 @@
-<* *>
+<* Basic formatting of fonts and alignment *>
 * {
   font-family: Helvetic, sans-serif;
   text-align: center;
 }
-<* *>
+<* h1 formatting *>
 h1 {
   font-family: Helvetica,sans-serif;
   font-size: 70px;
   font-weight: bold;
   color: White;
 }
-<* *>
+<* h2 formatting *>
 h2 {
   font-family: Helvetica,sans-serif;
   font-size: 32px;
   font-weight: bold;
 }
-<* *>
+<* h3 formatting *>
 h3 {
   font-family: Helvetica,sans-serif;
   font-size: 23px;
   font-weight: bold;
 }
-<* *>
+<* a formatting (future links) *>
 a {
   font-family: helvetica, sans-serif;
   font-size: 18px;
   color: White;
 }
-<* *>
+<* p formatting *>
 p {
   font-family: helvetica, sans-serif;
   font-size: 14px;
 }
-<* *>
+<* div formatting *>
 div {
   background-image: url(../images/the-flatiron-building.png);
 }
-<* *>
+<* id DINY formatting *>
 #DINY {
   color: White;
   background-image: url(../images/the-flatiron-building.png);
 }
-<* *>
+<* id #footer formatting *>
 #footer {
   font-family: Helvetica, sans-serif;
   font-size: 11px;
